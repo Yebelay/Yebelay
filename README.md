@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m working at Debre Markos University and Survey Manager at the Center for Evaluation and Development (C4ED) German based organization.  
+- 🔭 Biostatistician with over 10 years of experience in teaching statistical courses, data manipulation with implementing statistical principles, data analytics and data visualization, and project management.
 - 👯 I graduated with my MSc in Biostatistics at Stellenbosch University, South Africa, and my MSc in Statistics at Addis Ababa University, Ethiopia.
-- 🌱 I’m Proficient in R, SAS programming, STATA, and SPSS, accordingly.
-- 🤔 I’m looking for help with Machine Learning with python
-- 💬 Ask me about R and SAS.  
+- 🌱 I am Proficient in R and SAS programming. 
+- 🤔 I am good in Shine, Quarto, and R Markdown dashboards.
+- 💬 I am looking for Biostatistics collaboration. 
